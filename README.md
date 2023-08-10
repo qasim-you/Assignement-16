@@ -1,2 +1,2 @@
 # Assignement-16
-local storage
+local storage assignment 
